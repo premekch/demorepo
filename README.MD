@@ -1,0 +1,3 @@
+# README
+
+This is a first file for testing of communication with Github.
